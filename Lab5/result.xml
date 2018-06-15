@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<site depth="3" url="detox.wi.ps.pl">
+    <file href="omni/index.html">
+        <image>icons/omni-header.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/blueBall.gif</image>
+        <image>icons/redBall.gif</image>
+        <mail>pdp-openmp@trc.rwcp.or.jp</mail>
+        <file href="run.html">
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="profile.html">
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="omcc.html">
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="ompcc.html">
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="omf77.html">
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="ompf77.html">
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="tlogview.html">
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="environment.html">
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="Install.html">
+            <image>icons/omni-mark.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="install-jexc.html">
+            <image>icons/omni-mark.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="install-win-NT.html">
+            <image>icons/omni-mark.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="omni-st.html">
+            <image>icons/omni-mark.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="omni-scash.html">
+            <image>icons/omni-mark.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="omni64bit.html">
+            <image>icons/omni-mark.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+        <file href="f77QReal.html">
+            <image>icons/omni-mark.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+            <image>icons/redBall.gif</image>
+        </file>
+    </file>
+    <file href="sw/index.html">
+        <image>https://thecomicninja.files.wordpress.com/2012/05/dilbert-it-sells-itself.gif</image>
+        <file href="pwjs/lab_01.html"/>
+        <file href="pwjs/lab_02.html"/>
+        <file href="pwjs/lab_03.html"/>
+        <file href="pwjs/lab_04.html"/>
+        <file href="pwjs/lab_05.html"/>
+        <file href="pkg/zad1.html">
+            <image>http://upload.wikimedia.org/math/f/8/1/f811a4cb04f85f8dcdea97605ca82212.png</image>
+        </file>
+        <file href="pkg/zad2.html"/>
+        <file href="pkg/zad3.html"/>
+        <file href="pkg/zad4.html"/>
+        <file href="pkg/zad5.html"/>
+    </file>
+    <file href="db/index.html"/>
+    <file href="pb/index.html">
+        <image>http://www.w3.org/Icons/valid-xhtml10</image>
+        <file href="prace.html">
+            <image>http://www.w3.org/Icons/valid-xhtml10</image>
+        </file>
+    </file>
+</site>
